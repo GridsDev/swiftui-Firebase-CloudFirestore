@@ -1,0 +1,2 @@
+# swiftui-Firebase-CloudFirestore
+cocoapods
